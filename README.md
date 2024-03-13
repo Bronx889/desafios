@@ -1,2 +1,2 @@
 # desafios
- Desafios do Curso de HTML6 e CSS3
+ Desafios do Curso de HTML5 e CSS3
