@@ -8,6 +8,7 @@
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;
+    --cor1: black;
 }
 
 * {
@@ -23,7 +24,7 @@ html, body {
 }
 
 header {
-    background-color: black;
+    background-color: var(--cor1);
     color: white;
     text-align: center;
 }
