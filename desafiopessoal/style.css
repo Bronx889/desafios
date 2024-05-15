@@ -3,6 +3,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-style: italic;
 }
 
 table {
@@ -24,8 +25,23 @@ td.qtnd {
 tr.header {
     background-color: lightgray;
     color: black;
+    font-weight: bold;
 }
 
 #cor {
     background-color: rgb(4, 145, 4);
+}
+
+#preto {
+    background-color: lightgray;
+    color: black;
+    padding: 5px;
+    font-size: 1.5em;
+    width: 784px;
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: 0px;
+    height: 28px;
+    font-weight: bolder;
+
 }
