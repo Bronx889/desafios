@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    width: 150px;
+    border: 1.5px solid black;
+    padding: 4px;
+}
+
+
+
+td.qtnd {
+    text-align: center;
+}
+
+tr.header {
+    background-color: lightgray;
+    color: black;
+}
+
+#cor {
+    background-color: rgb(4, 145, 4);
+}
